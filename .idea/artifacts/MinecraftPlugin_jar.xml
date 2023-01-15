@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MinecraftPlugin:jar">
+    <output-path>$PROJECT_DIR$/../../serveur local/plugins</output-path>
+    <root id="archive" name="MinecraftPlugin.jar">
+      <element id="module-output" name="MinecraftPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../serveur local/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

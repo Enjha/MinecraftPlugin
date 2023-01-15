@@ -1,0 +1,7 @@
+name: MinecraftPlugin
+version: 1.0.0
+author: Enjha
+main: fr.enjha.Main
+commands:
+  game:
+    descritpion: permet d'entrer en jeu ou de lance le jeu ( enter / launch )
